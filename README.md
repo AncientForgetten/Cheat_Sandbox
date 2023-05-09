@@ -6,6 +6,7 @@ credit
 
 Developer: paontv
 Developer: saud2410
+Developer: AncientForgetten
 
 icon: icooon mono
 

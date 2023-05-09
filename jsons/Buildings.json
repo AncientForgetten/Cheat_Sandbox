@@ -2,99 +2,99 @@
 	{
 		"name": "Infinite gold",
 		"gold": 999999,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1
 	},
 	{
 		"name": "Cultural increase",
-		"gold": 999,
+		"gold": 1,
 		"culture": 50,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1
 	},
 	{
 		"name": "Faith increase",
-		"gold": 999,
+		"gold": 1,
 		"faith": 50,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1,
 		"uniques": ["Hidden when religion is disabled"]
 	},
 	{
 		"name": "Increase research speed",
-		"gold": 999,
+		"gold": 1,
 		"science": 30,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1
 	},
 	{
 		"name": "Food increase",
-		"gold": 999,
+		"gold": 1,
 		"food": 50,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1
 	},
 	{
 		"name": "New unit XP increase",
-		"gold": 999,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"gold": 1,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1,
 		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
 	},
 	{
 		"name": "Increased city defense",
-		"gold": 999,
+		"gold": 1,
 		"cityStrength": 100,
 		"cityHealth": 1000,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1
 	},
 	{
 		"name": "Increased city production",
-		"gold": 999,
+		"gold": 1,
 		"production": 100,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1
 	},
 	{
 		"name": "Scientist point",
-		"gold": 999,
+		"gold": 1,
 		"greatPersonPoints": {"Great Scientist": 30},
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1,
 	},
 	{
 		"name": "Engineer point",
-		"gold": 999,
+		"gold": 1,
 		"greatPersonPoints": {"Great Engineer": 30},
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1,
 	},
 	{
 		"name": "Artist point",
-		"gold": 999,
+		"gold": 1,
 		"greatPersonPoints": {"Great Artist": 30},
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1,
 	},
 	{
 		"name": "Merchant point",
-		"gold": 999,
+		"gold": 1,
 		"greatPersonPoints": {"Great Merchant": 30},
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 1,
 	}
 ]
 
